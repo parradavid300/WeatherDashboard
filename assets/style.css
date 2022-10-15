@@ -1,0 +1,29 @@
+body {
+margin: 0;
+padding: 0;
+
+}
+
+.hero {
+    height: 118px;
+}
+
+.button {
+    margin-top: 15px;
+    
+}
+
+.container {
+    margin: 0;
+}
+
+.columns {
+    margin: 0;
+    width: 135%;
+}
+
+.label {
+    font-weight: 900;
+    font-size: x-large;
+}
+
